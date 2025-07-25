@@ -1,1 +1,1 @@
-loat/loat-termcomp:5f390e
+loat/loat-termcomp:b60f5e
