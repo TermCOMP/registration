@@ -1,2 +1,2 @@
 loat/loat-termcomp:b60f5e
-nlommen/koat:latest
+nlommen/koat:74a561
