@@ -1,1 +1,1 @@
-nlommen/koat:latest
+nlommen/koat:74a561
