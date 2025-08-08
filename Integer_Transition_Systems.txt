@@ -1,2 +1,3 @@
 loat/loat-termcomp:55282c
 nlommen/koat:74a561
+blishko/golem-termcomp:latest
