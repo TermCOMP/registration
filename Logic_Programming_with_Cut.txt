@@ -1,1 +1,1 @@
-jckassing/aprove_solver:aprove_termcomp25_v2
+jckassing/aprove_solver:aprove_termcomp25_v3
