@@ -1,1 +1,1 @@
-nlommen/koat_loat:latest
+nlommen/koat_loat:8ec8e2
