@@ -1,2 +1,2 @@
 etiennepayet/nti_cti:firsttry
-jckassing/aprove_solver:aprove_termcomp25_v3
+jckassing/aprove_solver:aprove_termcomp25_v4
