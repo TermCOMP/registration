@@ -1,2 +1,2 @@
 jckassing/aprove_solver:aprove_termcomp25_v4 cert
-akihisayamada/natt:termcomp2025
+akihisayamada/natt:termcomp2025.1
