@@ -1,5 +1,5 @@
 loat/loat-termcomp:55282c
-nlommen/koat:20b41e
+nlommen/koat:08c42a
 blishko/golem-termcomp:latest
 loat/irankfinder_termcomp:v1.3.2
 loat/t2_termcomp:2025
