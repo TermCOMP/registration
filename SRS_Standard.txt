@@ -1,5 +1,5 @@
 jwaldmann/termcomp2025-mbox:13-08-2025.b cert
-jckassing/aprove_solver:aprove_termcomp25_v4 cert
+jckassing/aprove_solver:aprove_termcomp25_v5 cert
 raulgut/muterm-image:term-comp2025
 dieterhofbauer/multumnonmulta:3.24.2
 akihisayamada/natt:termcomp2025.1
