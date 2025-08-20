@@ -1,4 +1,4 @@
 jwaldmann/termcomp2025-mbox:13-08-2025.b cert
-jckassing/aprove_solver:aprove_termcomp25_v5 cert
+jckassing/aprove_solver:aprove_termcomp25_v6 cert
 dieterhofbauer/multumnonmulta:3.24.2
 akihisayamada/natt:termcomp2025.1
