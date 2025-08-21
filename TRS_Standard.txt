@@ -1,4 +1,4 @@
 etiennepayet/nti:firsttry
-jckassing/aprove_solver:aprove_termcomp25_v6 cert
+jckassing/aprove_solver:aprove_termcomp25_v7 cert
 raulgut/muterm-image:term-comp2025
 akihisayamada/natt:termcomp2025.1
