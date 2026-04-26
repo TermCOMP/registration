@@ -1,2 +1,2 @@
-# etiennepayet/nti_cti:firsttry
+etiennepayet/nti_cti:termcomp26
 # jckassing/aprove_solver:aprove_termcomp25_v7
