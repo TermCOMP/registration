@@ -1,4 +1,4 @@
-loat/loat-termcomp:637aa1
+loat/loat-termcomp:6590c2
 # nlommen/koat:35b7a7
 # blishko/golem-termcomp:latest
 loat/irankfinder_termcomp:v1.3.2
