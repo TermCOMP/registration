@@ -1,2 +1,2 @@
-# nlommen/koat:35b7a7
+nlommen/koat:termcomp2026
 # nlommen/cofloco:latest
