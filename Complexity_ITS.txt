@@ -1,2 +1,2 @@
-nlommen/koat_loat:termcomp2026
+loat/koat_loat:termcomp2026_v3
 nlommen/cofloco:latest
