@@ -1,4 +1,5 @@
 etiennepayet/nti:termcomp26
+tspn/mint-termcomp:2026
 # jckassing/aprove_solver:aprove_termcomp25_v7 cert
 # raulgut/muterm-image:term-comp2025
 # akihisayamada/natt:termcomp2025.1
