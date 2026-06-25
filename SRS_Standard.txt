@@ -2,5 +2,5 @@ tspn/mint-termcomp:2026
 # jwaldmann/termcomp2025-mbox:27-08-2025.f cert
 # jckassing/aprove_solver:aprove_termcomp25_v7 cert
 # raulgut/muterm-image:term-comp2025
-# dieterhofbauer/multumnonmulta:3.24.3
+dieterhofbauer/multumnonmulta:3.25.0
 # akihisayamada/natt:termcomp2025.1
