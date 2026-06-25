@@ -1,6 +1,6 @@
 loat/loat-termcomp:b41690b3
 nlommen/koat:termcomp2026
-usiverify/golem-termcomp:2026
+usiverify/golem-termcomp:2026-fix
 loat/irankfinder_termcomp:v1.3.2
 loat/t2_termcomp:2025
 loat/verymax_termcomp:2025
