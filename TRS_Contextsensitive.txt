@@ -1,2 +1,2 @@
-# jckassing/aprove_solver:aprove_termcomp25_v7
+jckassing/aprove_solver:aprove_termcomp26
 # raulgut/muterm-image:term-comp2025
