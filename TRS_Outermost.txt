@@ -1,1 +1,1 @@
-jckassing/aprove_solver:aprove_termcomp26 cert
+jckassing/aprove_solver:aprove_termcomp26_v2 cert
