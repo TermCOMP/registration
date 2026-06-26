@@ -4,4 +4,4 @@ usiverify/golem-termcomp:2026-fix
 loat/irankfinder_termcomp:v1.3.2
 loat/t2_termcomp:2025
 loat/verymax_termcomp:2025
-# hiroshiunno/coar:latest
+hiroshiunno/coar:latest
