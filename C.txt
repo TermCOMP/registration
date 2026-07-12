@@ -1,2 +1,2 @@
 nlommen/aprove_koat_loat:578822
-takumamonma/coar:termcomp2026
+takumamonma/coar:termcomp2026_v2
