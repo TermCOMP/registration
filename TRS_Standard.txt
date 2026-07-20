@@ -1,4 +1,4 @@
-etiennepayet/nti:termcomp26
+etiennepayet/nti:termcomp26_fixed
 tspn/mint-termcomp:2026
 jckassing/aprove_solver:aprove_termcomp26_v2 cert
 raulgut/muterm-image:term-comp2025
